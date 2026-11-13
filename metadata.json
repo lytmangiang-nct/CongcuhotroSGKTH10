@@ -1,0 +1,6 @@
+{
+  "name": "SGK Thông Minh - Tin Học 10 KNTT (Bài 1 - 18 & Mô phỏng 3D)",
+  "description": "Sách giáo khoa điện tử thông minh Tin học 10 Kết nối tri thức với cuộc sống. Tích hợp song ngữ Anh - Việt, mô phỏng 3D Three.js trực quan, phòng thí nghiệm lập trình Python tương tác cho các bài từ Bài 1 đến Bài 18.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
